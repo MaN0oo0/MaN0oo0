@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=man0oo0&label=Profile%20views&color=0e75b6&style=flat" alt="man0oo0" /> </p>
 
-- 🌱 I’m currently learning **.net core,React**
+- 🌱 I’m currently learning **.net core**
 
 - 👨‍💻 All of my projects are available at [https://voluble-semolina-c361db.netlify.app/](https://voluble-semolina-c361db.netlify.app/)
 
